@@ -1,8 +1,7 @@
-function App() {
+import Boimela from './Boimela';
 
-  return (
-      "hello React"
-  )
+function App() {
+  return  <Boimela/>
 }
 
 export default App
